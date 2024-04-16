@@ -1,0 +1,15 @@
+[submodule "submodules/nhsnotify-techdocs"]
+	path = submodules/nhsnotify-techdocs
+	url = https://github.com/NHSDigital/nhsnotify-techdocs.git
+[submodule "submodules/nhsnotify-architecture"]
+	path = submodules/nhsnotify-architecture
+	url = https://github.com/NHSDigital/nhsnotify-architecture.git
+[submodule "submodules/nhsnotify-iam"]
+	path = submodules/nhsnotify-iam
+	url = https://github.com/NHSDigital/nhsnotify-iam.git
+[submodule "submodules/nhsnotify-frontend-platform"]
+	path = submodules/nhsnotify-frontend-platform
+	url = https://github.com/NHSDigital/nhsnotify-frontend-platform.git
+[submodule "submodules/nhsnotify-frontend-cms"]
+	path = submodules/nhsnotify-frontend-cms
+	url = https://github.com/NHSDigital/nhsnotify-frontend-cms.git
