@@ -13,3 +13,6 @@
 [submodule "submodules/nhsnotify-frontend-cms"]
 	path = submodules/nhsnotify-frontend-cms
 	url = https://github.com/NHSDigital/nhsnotify-frontend-cms.git
+[submodule "submodules/nhsnotify-frontend-template-management"]
+	path = submodules/nhsnotify-frontend-template-management
+	url = https://github.com/NHSDigital/nhsnotify-frontend-template-management.git
