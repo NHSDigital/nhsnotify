@@ -1,3 +1,3 @@
 # NHS Notify
 
-[NHS Notify Submodules](https://github.com/orgs/NHSDigital/repositories?q=nhsnotify-)
+[See https://github.com/NHSDigital/nhs-notify](https://github.com/NHSDigital/nhs-notify)
